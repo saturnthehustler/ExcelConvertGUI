@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots
 
-![ScreenShot](https://raw.github.com/saturnthehustler/ExcelConvertGUI/blob/6ced58bbe904793a365b182e922b12e1a8050b94/Screenshot%201.png)
+![ScreenShot](https://github.com/saturnthehustler/ExcelConvertGUI/blob/6ced58bbe904793a365b182e922b12e1a8050b94/Screenshot%201.png)
