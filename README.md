@@ -40,5 +40,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Screenshots
 
 ![ScreenShot](https://github.com/saturnthehustler/ExcelConvertGUI/blob/6ced58bbe904793a365b182e922b12e1a8050b94/Screenshot%201.png)
+![ScreenShot]
 (https://github.com/saturnthehustler/ExcelConvertGUI/blob/main/Screenshot%202.png)
+![ScreenShot]
 (https://github.com/saturnthehustler/ExcelConvertGUI/blob/main/Screenshot%203.png)
+![ScreenShot]
+(https://github.com/saturnthehustler/ExcelConvertGUI/blob/main/Screenshot%204.png)
+![ScreenShot]
+(https://github.com/saturnthehustler/ExcelConvertGUI/blob/main/Screenshot%205.png)
